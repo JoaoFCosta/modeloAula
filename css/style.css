@@ -320,7 +320,6 @@ footer {
 footer #dados {
   display: flex;
   margin: 0 4%;
-  margin-left: 17%;
   justify-content: space-between;
 }
 
@@ -334,7 +333,7 @@ footer #dados {
 }
 
 footer #dados:first-child {
-  margin-left: 20%;
+  margin-left: 16%;
 }
 
 #copyright {
