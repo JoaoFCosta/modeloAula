@@ -13,7 +13,7 @@ body {
 }
 
 .bgfundo {
-  background: url(../img/banner.jpg) no-repeat center/cover;
+  background: url(../img/banner.png) no-repeat center/cover;
   /* 
        background-color: blue;
        background-image: url(https://placehold.co/1920x1080); 
@@ -81,7 +81,7 @@ header {
 }
 .main-navigation a:hover,
 .main-navigation a:focus {
-  border-color: #e7a200;
+  border-color: #004de7;
 }
 
 .site-header-main {
@@ -101,7 +101,7 @@ header {
 }
 
 #btnZap {
-  background: #e7a200;
+  background: #004de7;
   border-radius: 65px;
   padding: 0px 15px;
   font-size: 20px;
@@ -155,7 +155,7 @@ header {
 #TextoBoasVindas h3 {
   text-transform: uppercase;
   font-weight: 900;
-  color: #e7a200;
+  color: #004de7;
   font-size: 23px;
   margin-top: 20px;
   margin-bottom: 0;
@@ -180,7 +180,7 @@ header {
 }
 
 #Cardapio h2 {
-  color: #d03012;
+  color: #004de7;
   text-transform: uppercase;
   font-size: 28px;
   font-weight: 900;
@@ -190,10 +190,10 @@ header {
 .btnCardapio {
   text-decoration: none;
   color: #fff;
-  background: #8daa3e;
+  background: #004de7;
   padding: 10px 20px;
   border-radius: 50px;
-  border-bottom: 2px solid #6b7552;
+  border-bottom: 2px solid #004de7;
 }
 
 #PromoPizzas {
@@ -219,7 +219,7 @@ header {
 
 #Delivery h1 {
   text-transform: uppercase;
-  color: #bf0a26;
+  color: #004de7;
   font-weight: 900;
 }
 
@@ -261,7 +261,7 @@ header {
   text-transform: uppercase;
 }
 .forms h2 {
-  color: #e7a200;
+  color: #004de7;
   font-size: 28px;
   line-height: 80px;
   margin: 0;
@@ -296,8 +296,8 @@ header {
 }
 
 .forms input[type="submit"] {
-  background: #e7a200;
-  border-color: #e7a200;
+  background: #004de7;
+  border-color: #004de7;
   width: 155px;
   border-radius: 50px;
   color: #fff;
@@ -306,7 +306,7 @@ header {
 }
 
 footer {
-  background: #e7a200;
+  background: #004de7;
   min-height: 400px;
   margin-top: -281px;
   color: #fff;
@@ -331,7 +331,7 @@ footer #dados {
 }
 
 footer #dados:first-child {
-  margin-left: 14.4%;
+  margin-left: 14.5%;
 }
 
 #copyright {
